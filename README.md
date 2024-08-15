@@ -20,7 +20,9 @@
 
     C. 所有例子请在 Visual Studio Code 上打开，在使用时请基于编程语言选择好 Kernel (Python or .NET)
 
-完环境配置后，大家可以安心进入 Workshop.
+完环境配置后，大家可以安心进入 Workshop. 
+
+### **📖📖 课程 PPT** [Phi-3 with NVIDIA NIM](./ppt/nvidia-summer-bootcamp-kinfey.pdf)
 
 ## **🧪 实验一： 体验多环境下的 Phi-3-mini 引用方式**
 
