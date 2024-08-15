@@ -34,7 +34,9 @@ Phi-3-mini 可以在不同端侧模型上使用，大家可以通过 Ollama, LM 
 
 - [在 LM Studio 上使用 Phi-3](https://github.com/microsoft/Phi-3CookBook/blob/main/md/02.QuickStart/translations/zh-cn/LMStudio_QuickStart.md)
 
-### **🍔 巩固练习**：您能用 Python 访问 Ollama 或者 LlamaEdge 或者 LM Studio 发布的 API 吗？ 请用 Notebook 提交该练习
+### **🍔 巩固练习**
+
+您能用 Python 访问 Ollama 或者 LlamaEdge 或者 LM Studio 发布的 API 吗？ 请用 Notebook 提交该练习
 
 
 ## **🧪 实验二： 在 NVIDIA NIM 上使用 Phi-3**
@@ -47,14 +49,18 @@ Phi-3-mini 可以在不同端侧模型上使用，大家可以通过 Ollama, LM 
 
 您可以通过 NVIDIA NIM 快速完成文本生成，对话补全的工作，也可以完成图像分析的工作。
 
-### **🍔 巩固练习**：您能用 NVIDIA NIM 提供的 Phi-3 API，完成一个看图作文吗？找一张您生活中的图片，用 Phi-3 简单描述一下。
+### **🍔 巩固练习**
+
+您能用 NVIDIA NIM 提供的 Phi-3 API，完成一个看图作文吗？找一张您生活中的图片，用 Phi-3 简单描述一下。
 
 
 ## **🧪 实验三： 通过 Semantic Kernel 调用 NVIDIA NIM 上的 Phi-3**
 
 -[Semantic Kernel with NVIDIA NIM Phi-3](./Phi-3-SK.ipynb) 
 
-### **🍔 巩固练习**：学习 Semantic Kernel, 访问 Cookbook [https://github.com/microsoft/semantickernelcookbook](https://github.com/microsoft/semantickernelcookbook)
+### **🍔 巩固练习** 
+
+学习 Semantic Kernel, 访问 [Phi-3 Cookbook](https://github.com/microsoft/semantickernelcookbook)
 
 
 ## **🧪 实验四： 使用 NVIDIA NIM 上的 Phi-3 构建一个语音机器人原型**
@@ -64,7 +70,9 @@ Phi-3-mini 可以在不同端侧模型上使用，大家可以通过 Ollama, LM 
 -[Phi-3 语音机器人](./Phi-3-Voice.ipynb)
 
 
-### **🍔 巩固练习**：如果您学有余力，请把该原型优化，构建一个语音机器人
+### **🍔 巩固练习**
+
+如果您学有余力，请把该原型优化，构建一个语音机器人
 
 
 🎉🎉🎉 谢谢您的参与，通过一小时的学习，您成功开启了 Phi-3 的入门，希望您能通过 NVIDIA NIM 以及 Phi-3 构建更好的应用
