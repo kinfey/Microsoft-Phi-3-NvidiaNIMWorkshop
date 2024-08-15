@@ -56,6 +56,8 @@ Phi-3-mini 可以在不同端侧模型上使用，大家可以通过 Ollama, LM 
 
 ## **🧪 实验三： 通过 Semantic Kernel 调用 NVIDIA NIM 上的 Phi-3**
 
+学习结合  Semantic Kernel 创建 Phi-3 的 Copilot 应用
+
 -[Semantic Kernel with NVIDIA NIM Phi-3](./Phi-3-SK.ipynb) 
 
 ### **🍔 巩固练习** 
