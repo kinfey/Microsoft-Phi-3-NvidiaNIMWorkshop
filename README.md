@@ -36,7 +36,7 @@ Phi-3-mini 可以在不同端侧模型上使用，大家可以通过 Ollama, LM 
 
 ### **🍔 巩固练习**
 
-您能用 Python 访问 Ollama 或者 LlamaEdge 或者 LM Studio 发布的 API 吗？ 请用 Notebook 提交该练习
+您能用 Python 访问 Ollama 或者 LlamaEdge 或者 LM Studio 发布的 API 吗？ 请用 Notebook 完成该练习
 
 
 ## **🧪 实验二： 在 NVIDIA NIM 上使用 Phi-3**
