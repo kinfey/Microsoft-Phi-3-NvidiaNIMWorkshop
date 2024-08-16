@@ -7,7 +7,7 @@
     B. 在您的电脑配置如下环境：
 
         1. 安装 Python 3.10.x+ (建议使用 miniforge 方式创建)
-        2. 安装 .NET 8
+        2. 安装 .NET 8 (下载地址 [https://dotnet.microsoft.com/](https://dotnet.microsoft.com/))
         3. 安装 Visual Studio Code
         4. 安装 Visual Studio Code 插件 （.NET Extension Pack 和 Python, Jupyter ）
         5. 安装 Python 库 - Jupyter Notebook
